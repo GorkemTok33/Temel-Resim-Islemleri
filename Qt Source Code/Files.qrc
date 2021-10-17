@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Files"/>
+    <qresource prefix="/Pictures">
+        <file>folder.png</file>
+        <file>diskette.png</file>
+        <file>diskette1.png</file>
+        <file>printer.png</file>
+        <file>keyboard.png</file>
+        <file>LogoMakr-1Qkf3X.png</file>
+        <file>console.png</file>
+        <file>color-palette.png</file>
+        <file>back.png</file>
+    </qresource>
+</RCC>
