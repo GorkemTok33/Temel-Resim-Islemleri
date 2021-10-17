@@ -1,0 +1,2 @@
+# Temel-Resim-Islemleri
+Temel Resim İşlemleri, OpenCV Görüntü İşleme Kütüphanesi ile uğraşanlar için ideal bir programdır. Temel Resim İşlemleri ile OpenCV Görüntü İşleme kütüphanesinde sıkça kullanılan fonksiyonların değerlerini dinamik bir şekilde değiştirerek işlem yaptığınız resmin üzerinde ne gibi değişiklik- ler olduğunu görebilir ve yapmak istediğiniz görüntü işleme işlemi için kullanacağınız fonksiyonda en ideal değişken değerlerine ulaşabilirsiniz ayrıca görsel tasarımlar içinde programı kullanabilirsiniz.
