@@ -3,9 +3,11 @@ Temel Resim İşlemleri, OpenCV Görüntü İşleme Kütüphanesi ile uğraşanl
 <br>
 <h3>Program içinde yapabilecekleriniz</h3>
 <br>
+<br>
 <b>1-Filtreleme, Renk Filtreleme)</b>
 <br>
 <img src='https://user-images.githubusercontent.com/79594881/153723336-467a05f9-2979-43bc-99ee-9f3b662d61cc.jpg'/>
+<br>
 <b>2-Blurlama</b>
 <br>
 <img src='https://user-images.githubusercontent.com/79594881/153723380-5de297cc-04ae-45de-9068-f46827621d4d.jpg'/>
